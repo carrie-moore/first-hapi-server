@@ -1,0 +1,23 @@
+{
+  "name": "first-hapi-server",
+  "version": "1.0.0",
+  "description": "practicing server frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carriecarter/first-hapi-server.git"
+  },
+  "author": "Carrie Carter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carriecarter/first-hapi-server/issues"
+  },
+  "homepage": "https://github.com/carriecarter/first-hapi-server#readme",
+  "dependencies": {
+    "hapi": "^17.5.3",
+    "mongoose": "^5.2.7"
+  }
+}
